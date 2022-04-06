@@ -8,6 +8,6 @@ public class variable
 		int c=a+b;    
 		System.out.println(c);    
 		}  
-		}    
+}    
 
 
