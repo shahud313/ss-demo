@@ -18,7 +18,7 @@ public class Applet2part6 extends Applet{
 			 
 			 	 }
 }
-class H implements ActionListener {
+ class H implements ActionListener {
 	
 	public void actionperformed (ActionEvent e) {
 		Applet2part6.t.setText("Hello world");

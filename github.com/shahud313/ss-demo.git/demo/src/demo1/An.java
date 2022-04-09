@@ -6,15 +6,15 @@ public class An {
 	class D extends An{  
 	void bark(){System.out.println("barking...");}  
 	}  
-	class BabyDog extends D{  
+	class Am extends D{  
 	void weep(){System.out.println("weeping...");}  
 	}  
 	class TestInheritance2{  
 	public static void main(String args[]){  
-	BabyDog d=new BabyDog();  
-	d.weep();  
-	d.bark();  
-	d.eat();  
+	Am a=new Am();  
+	a.weep();  
+	a.bark();  
+	a.eat();  
 	}}  
 
 
